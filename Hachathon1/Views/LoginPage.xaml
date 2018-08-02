@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hachathon1.LoginPage">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor= "#EAE9E6" Padding="10,10" Spacing="20" >
+            <Image Source="piato.png"/>
+
+            <StackLayout Padding="10,0,10,0" Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+
+                <Label x:Name="UserLabel" Text="User Name: " TextColor="Blue" FontAttributes="Bold" FontSize="Small"
+                   HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" />
+
+                <Entry x:Name="UserEntry"  TextColor="Blue" WidthRequest="160" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand" />
+
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" Padding="10,0,10,0" HorizontalOptions="CenterAndExpand">
+
+                <Label x:Name="PassLabel" Text="Password: "  TextColor="Blue" FontAttributes="Bold" FontSize="Small"
+                       HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"/>
+
+                <Entry x:Name="PassEntry" IsPassword="True" TextColor="Blue" WidthRequest="160" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand" />
+
+            </StackLayout>
+
+
+            <Button x:Name="LoginButton" Text="LOGIN" TextColor="White" BackgroundColor="Blue"
+                        HorizontalOptions="FillAndExpand" VerticalOptions="Center" BorderRadius="50" />
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

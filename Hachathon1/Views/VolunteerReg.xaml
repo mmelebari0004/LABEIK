@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hachathon1.VolunteerReg">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="Transparent">
+            <StackLayout>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand"  HeightRequest="40" Padding="10" Spacing="10">
+                    <Label Text="Name" 
+                           TextColor="Blue" FontSize="15" 
+                           VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
+                    <Entry  x:Name="NameEntry"  TextColor="Black"   BackgroundColor="White" Opacity="0.3" 
+                            FontSize="15" WidthRequest="120" HeightRequest="40"
+                            VerticalOptions="Start" HorizontalOptions="Start" />
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand"  HeightRequest="40" Padding="10" Spacing="10">
+                    <Label Text="ID" TextColor="Blue" FontSize="15" 
+                           VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
+                    <Entry  x:Name="IDEntry"  TextColor="Black"   BackgroundColor="White" Opacity="0.3" 
+                            FontSize="15" WidthRequest="120" HeightRequest="40" 
+                            VerticalOptions="Start" HorizontalOptions="Start" />
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand"  HeightRequest="40" Padding="10" Spacing="10">
+                    <Label Text="ID" TextColor="Blue" FontSize="15" 
+                           VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
+                    <Entry  x:Name="IDEntry"  TextColor="Black"   BackgroundColor="White" Opacity="0.3" 
+                            FontSize="15" WidthRequest="120" HeightRequest="40" 
+                            VerticalOptions="Start" HorizontalOptions="Start" />
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand"  HeightRequest="40" Padding="10" Spacing="10">
+                    <Label Text="ID" TextColor="Blue" FontSize="15" 
+                           VerticalOptions="Center" HorizontalOptions="StartAndExpand"/>
+                    <Entry  x:Name="IDEntry"  TextColor="Black"   BackgroundColor="White" Opacity="0.3" 
+                            FontSize="15" WidthRequest="120" HeightRequest="40" 
+                            VerticalOptions="Start" HorizontalOptions="Start" />
+                </StackLayout>
+
+                <Button x:Name="VolunterButton" Text="Submet" TextColor="Blue" BackgroundColor="White"
+                        HorizontalOptions="FillAndExpand" VerticalOptions="Center" BorderRadius="50"  BorderColor="Blue" BorderWidth="1"  />
+
+
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

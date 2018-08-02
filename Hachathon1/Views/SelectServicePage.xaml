@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hachathon1.SelectServicePage">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Padding="5" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                <Button x:Name="HelpMeButton" Text="Help Me" TextColor="Blue" BackgroundColor="White"
+                        HorizontalOptions="CenterAndExpand" VerticalOptions="Center"
+                        BorderRadius="50" BorderColor="Blue" BorderWidth="1" />
+                <Button x:Name="ERButton" Text="Emergency" TextColor="Blue" BackgroundColor="White"
+                        HorizontalOptions="CenterAndExpand" VerticalOptions="Center" 
+                        BorderRadius="50"  BorderColor="Blue" BorderWidth="1"  />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

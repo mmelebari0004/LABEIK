@@ -1,0 +1,17 @@
+C:\Users\ma-me_000\Desktop\Hachathon\Hachathon1\Hachathon1\Hachathon1\bin\Debug\netstandard2.0\Hachathon1.deps.json
+C:\Users\ma-me_000\Desktop\Hachathon\Hachathon1\Hachathon1\Hachathon1\bin\Debug\netstandard2.0\Hachathon1.dll
+C:\Users\ma-me_000\Desktop\Hachathon\Hachathon1\Hachathon1\Hachathon1\bin\Debug\netstandard2.0\Hachathon1.pdb
+C:\Users\ma-me_000\Desktop\Hachathon\Hachathon1\Hachathon1\Hachathon1\obj\Debug\netstandard2.0\Hachathon1.csprojAssemblyReference.cache
+C:\Users\ma-me_000\Desktop\Hachathon\Hachathon1\Hachathon1\Hachathon1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ma-me_000\Desktop\Hachathon\Hachathon1\Hachathon1\Hachathon1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ma-me_000\Desktop\Hachathon\Hachathon1\Hachathon1\Hachathon1\obj\Debug\netstandard2.0\Hachathon1.csproj.CoreCompileInputs.cache
+C:\Users\ma-me_000\Desktop\Hachathon\Hachathon1\Hachathon1\Hachathon1\obj\Debug\netstandard2.0\Hachathon1.AssemblyInfoInputs.cache
+C:\Users\ma-me_000\Desktop\Hachathon\Hachathon1\Hachathon1\Hachathon1\obj\Debug\netstandard2.0\Hachathon1.AssemblyInfo.cs
+C:\Users\ma-me_000\Desktop\Hachathon\Hachathon1\Hachathon1\Hachathon1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ma-me_000\Desktop\Hachathon\Hachathon1\Hachathon1\Hachathon1\obj\Debug\netstandard2.0\Hachathon1.dll
+C:\Users\ma-me_000\Desktop\Hachathon\Hachathon1\Hachathon1\Hachathon1\obj\Debug\netstandard2.0\Hachathon1.pdb
+C:\Users\ma-me_000\Desktop\Hachathon\Hachathon1\Hachathon1\Hachathon1\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\ma-me_000\Desktop\Hachathon\Hachathon1\Hachathon1\Hachathon1\obj\Debug\netstandard2.0\Views\StartPage.xaml.g.cs
+C:\Users\ma-me_000\Desktop\Hachathon\Hachathon1\Hachathon1\Hachathon1\obj\Debug\netstandard2.0\Views\PligrimsReg.xaml.g.cs
+C:\Users\ma-me_000\Desktop\Hachathon\Hachathon1\Hachathon1\Hachathon1\obj\Debug\netstandard2.0\Views\SelectServicePage.xaml.g.cs
+C:\Users\ma-me_000\Desktop\Hachathon\Hachathon1\Hachathon1\Hachathon1\obj\Debug\netstandard2.0\Views\VolunteerReg.xaml.g.cs
